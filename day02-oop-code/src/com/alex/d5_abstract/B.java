@@ -1,0 +1,13 @@
+package com.alex.d5_abstract;
+
+public class B extends A{
+    @Override
+    public void go() {
+
+    }
+
+    @Override
+    public void run() {
+
+    }
+}
