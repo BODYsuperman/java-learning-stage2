@@ -1,0 +1,13 @@
+package com.alex.d2_innerclass2;
+
+public class Test {
+
+    public static void main(String[] args) {
+        Outer.Inner in = new Outer.Inner();
+        in.setName("Alan");
+        in.show();
+
+        People.Heart h = new People().new Heart();
+        h.show();
+    }
+}
