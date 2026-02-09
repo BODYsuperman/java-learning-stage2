@@ -6,6 +6,8 @@ public class MapTest4 {
 
     public static void main(String[] args) {
 
+
+
         String[] locations = {"DC", "LA", "New York", "Houston"};
 
         List<String> places = new ArrayList<>();
@@ -30,6 +32,7 @@ public class MapTest4 {
         }
 
         res.forEach((k,v)-> System.out.println(k+ "----" + v));
+
 
 
 
