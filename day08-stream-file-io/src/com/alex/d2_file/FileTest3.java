@@ -14,7 +14,7 @@ public class FileTest3 {
         System.out.println(f2.mkdir());
 
 
-        File f3 = new File("/Users/alexandarmay/Desktop/1/1");
+        File f3 = new File("/Users/alexandarmay/Desktop/1/1/2/3");
         System.out.println(f3.mkdirs());
 
         System.out.println(f3.delete());
