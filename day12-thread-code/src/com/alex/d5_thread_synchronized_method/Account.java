@@ -1,4 +1,4 @@
-package com.alex.d4_thread_synchronized_method;
+package com.alex.d5_thread_synchronized_method;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
