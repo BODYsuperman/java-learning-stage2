@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/day09-io-code/day09-io-code.iml" filepath="$PROJECT_DIR$/day09-io-code/day09-io-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/day10-io-code/day10-io-code.iml" filepath="$PROJECT_DIR$/day10-io-code/day10-io-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/day12-thread-code/day12-thread-code.iml" filepath="$PROJECT_DIR$/day12-thread-code/day12-thread-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13-net/day13-net.iml" filepath="$PROJECT_DIR$/day13-net/day13-net.iml" />
     </modules>
   </component>
 </project>
